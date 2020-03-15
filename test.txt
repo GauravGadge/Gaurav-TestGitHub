@@ -1,3 +1,2 @@
 Test, first commit.
 Test, second commit.
-Test, third commit.
